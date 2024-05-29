@@ -64,10 +64,8 @@ The proposed model achieved an accuracy of 96.19%, with high precision, recall, 
 This project demonstrates the effectiveness of CNNs with SE blocks and XAI techniques for brain tumor classification, achieving a high accuracy of 96.19%. The integration of Grad-CAM enhances interpretability, providing valuable insights for clinical decision-making.
 
 ## Acknowledgments
-We acknowledge Kaggle for the MRI dataset used in this research.
+I acknowledge Kaggle for the MRI dataset used in this research.
 
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any questions or collaboration opportunities, please reach out to Anjana Nair at [nairanjana0205@gmail.com](mailto:nairanjana0205@gmail.com).
